@@ -1,0 +1,77 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.apple-new {
+  font-size: 12px;
+  color: orange;
+}
+
+.apple-item {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.apple-desc {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.apple-price {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.apple-buy {
+  font-size: 12px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.price {
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+.amount {
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+  margin-right: 4px
+}
+
+.currency {
+  color: gray;
+  font-size: 14px;
+}
+
+.today {
+  color: green;
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.hours {
+  text-align: left;
+  font-size: 14px
+}
+
+.hours-price {
+  color: gray;
+}
+
+.change {
+  color: red;
+}
